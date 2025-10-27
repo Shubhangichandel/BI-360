@@ -125,7 +125,7 @@ Special thanks to **Dhaval Patel** Sir, **Hemanand Vadivel** Sir, and the entire
 ---
 
 ### 🔗 Connect with Me
-💼 [LinkedIn](www.linkedin.com/in/shubhangichandel-ab5132231))  
+💼 [LinkedIn] (www.linkedin.com/in/shubhangichandel-ab5132231)
 📧 Email: Shubhangichandel29@gmail.com
 
 ---
