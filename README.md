@@ -130,4 +130,10 @@ Special thanks to **Dhaval Patel** Sir, **Hemanand Vadivel** Sir, and the entire
 
 ---
 
+## 🔗 Useful Links
+
+- **Live Dashboard Link**: (<iframe title="Business Insights 360 - New" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmM3NmVhZjktYWI1YS00OGM5LWE3ZmEtZjBiM2YxYzBhYmI4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>)
+- **LinkedIn Project Post**: [[Click Here]](x) 
+- **GitHub Repo**: [Click Here](https://github.com/Shubhangichandel/BI-360.git) 
+
 ⭐ *If you found this project useful, don’t forget to star the repository!*
