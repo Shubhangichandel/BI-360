@@ -1,7 +1,7 @@
 # 📊 Business Insights 360 - AtliQ Hardware Power BI Dashboard
 
 ## 🧾 Project Overview
-This Power BI project, **Business Insights 360**, was created as part of the **Power BI Data Analytics course** by **Codebasics**.  
+This Power BI project, **Business Insights 360**, was created as part of the **Get Job Ready: Power BI Data Analytics course for all Levels 3.0** by **Codebasics**.  
 **AtliQ Hardware** is a company that sells hardware devices through two platforms:
 - 🏬 **Brick & Mortar** (physical stores)  
 - 🌐 **E-Commerce** (online platforms)
@@ -105,7 +105,7 @@ SWITCH(), FILTER(), ALLEXCEPT(), CALCULATE()
 ---
 
 ## 🧩 Course Information
-- **Course:** Get Job Ready: Power BI Data Analytics  
+- **Course:** Get Job Ready: Power BI Data Analytics for all Levels 3.0  
 - **Instructor:** Codebasics Team (Dhaval Patel, Hemanand Vadivel)  
 - **Duration:** Self-paced learning project  
 - **Domain:** Business Analytics / Data Visualization  
@@ -125,7 +125,7 @@ Special thanks to **Dhaval Patel** Sir, **Hemanand Vadivel** Sir, and the entire
 ---
 
 ### 🔗 Connect with Me
-💼 [LinkedIn](#)  
+💼 [LinkedIn](www.linkedin.com/in/shubhangichandel-ab5132231))  
 📧 Email: Shubhangichandel29@gmail.com
 
 ---
